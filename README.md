@@ -12,7 +12,7 @@ This project allows users to interact with an AI assistant in real time.
 ## 🛠️ Tech Stack
 - React.js
 - Vite
-- JavaScript
+- Express JS
 - TalwindCSS
 
 ## 📦 Installation
